@@ -3,5 +3,5 @@
 int
 main(void)
 {
-    puts("deploy test idk");
+    puts("deploy test 2 idk");
 }
